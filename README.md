@@ -1,3 +1,9 @@
+# 入坑指南：
+前言：在实现这个项目时，遇到了几个问题，这里记录一下：
+1. 需要有GPU，否则报错
+2. python版本问题，需要安装python3.7 ,3.6好像也行，等会试试再改
+3. 需要的几个包的版本严格安装 requirement中的说明来：但有几个需要调整，torch 安装 1.8.1 还是18.1（记不清了），torchvision 0.4.1
+
 # Deepfake Detection
 
 ## Description
